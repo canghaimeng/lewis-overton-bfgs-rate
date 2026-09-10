@@ -1,5 +1,6 @@
 # Lewis--Overton BFGS Rate
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.09872-b31b1b.svg)](https://arxiv.org/abs/2609.09872)
 [![Lean build](https://github.com/canghaimeng/lewis-overton-bfgs-rate/actions/workflows/lean.yml/badge.svg)](https://github.com/canghaimeng/lewis-overton-bfgs-rate/actions/workflows/lean.yml)
 
 Lean 4 formalization of two parameterized families of nonterminating orbits of
@@ -68,3 +69,17 @@ that a separately defined worst-case or large-`u` asymptotic fails.
 
 The development contains no `sorry`, `admit`, `axiom`, or `unsafe`
 declarations.
+
+## Citation
+
+```bibtex
+@misc{chen2026initialization,
+  title         = {Initialization-dependent BFGS trial rates for tilted absolute values},
+  author        = {Chen, Qiuyu},
+  year          = {2026},
+  eprint        = {2609.09872},
+  archivePrefix = {arXiv},
+  primaryClass  = {math.NA},
+  url           = {https://arxiv.org/abs/2609.09872}
+}
+```
