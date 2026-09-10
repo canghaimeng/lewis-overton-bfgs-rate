@@ -1,0 +1,10 @@
+.lake/
+.DS_Store
+*.olean
+*.ilean
+*.trace
+*.hash
+*.setup.json
+*.c
+*.o
+
